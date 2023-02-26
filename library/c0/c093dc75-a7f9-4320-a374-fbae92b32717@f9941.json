@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "logo",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 576,
+      "height": 214
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 576,
+      "height": 214
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "c093dc75-a7f9-4320-a374-fbae92b32717@6c48a",
+    "packable": true
+  }
+}

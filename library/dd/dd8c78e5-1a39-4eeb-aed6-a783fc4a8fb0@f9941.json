@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fightIconBullet03",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 183,
+      "height": 103
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 183,
+      "height": 103
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "dd8c78e5-1a39-4eeb-aed6-a783fc4a8fb0@6c48a",
+    "packable": true
+  }
+}

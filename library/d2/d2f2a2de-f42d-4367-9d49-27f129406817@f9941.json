@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lightning001",
+    "atlas": "",
+    "rect": {
+      "x": 8,
+      "y": 0,
+      "width": 1009,
+      "height": 1024
+    },
+    "offset": {
+      "x": 0.5,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 1024,
+      "height": 1024
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "d2f2a2de-f42d-4367-9d49-27f129406817@6c48a",
+    "packable": true
+  }
+}
