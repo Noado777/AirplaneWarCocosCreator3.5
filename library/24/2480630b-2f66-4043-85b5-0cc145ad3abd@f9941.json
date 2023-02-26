@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "glowparticlesgenericsheet",
+    "atlas": "",
+    "rect": {
+      "x": 7,
+      "y": 11,
+      "width": 51,
+      "height": 235
+    },
+    "offset": {
+      "x": 0.5,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 64,
+      "height": 256
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "2480630b-2f66-4043-85b5-0cc145ad3abd@6c48a",
+    "packable": true
+  }
+}

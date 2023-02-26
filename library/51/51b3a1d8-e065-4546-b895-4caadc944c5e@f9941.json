@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "genericexplosionbigsheet",
+    "atlas": "",
+    "rect": {
+      "x": 32,
+      "y": 60,
+      "width": 992,
+      "height": 1866
+    },
+    "offset": {
+      "x": 16,
+      "y": 31
+    },
+    "originalSize": {
+      "width": 1024,
+      "height": 2048
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "51b3a1d8-e065-4546-b895-4caadc944c5e@6c48a",
+    "packable": true
+  }
+}

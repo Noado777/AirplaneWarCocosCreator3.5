@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "coreWind",
+    "atlas": "",
+    "rect": {
+      "x": 27,
+      "y": 30,
+      "width": 203,
+      "height": 204
+    },
+    "offset": {
+      "x": 0.5,
+      "y": -4
+    },
+    "originalSize": {
+      "width": 256,
+      "height": 256
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "31388d43-842d-4740-85d0-29768d347873@6c48a",
+    "packable": true
+  }
+}
