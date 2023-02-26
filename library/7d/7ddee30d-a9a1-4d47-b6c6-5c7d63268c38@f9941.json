@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "flarecore04",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 256,
+      "height": 256
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 256,
+      "height": 256
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "7ddee30d-a9a1-4d47-b6c6-5c7d63268c38@6c48a",
+    "packable": true
+  }
+}
