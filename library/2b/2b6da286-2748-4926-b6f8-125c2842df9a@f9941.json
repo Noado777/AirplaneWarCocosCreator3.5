@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "flame01",
+    "atlas": "",
+    "rect": {
+      "x": 60,
+      "y": 3,
+      "width": 81,
+      "height": 191
+    },
+    "offset": {
+      "x": 0.5,
+      "y": 1.5
+    },
+    "originalSize": {
+      "width": 200,
+      "height": 200
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "2b6da286-2748-4926-b6f8-125c2842df9a@6c48a",
+    "packable": true
+  }
+}
