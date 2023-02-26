@@ -1,0 +1,21 @@
+{
+  "__version__": "1.0.0",
+  "options": {
+    "cocos-play": {
+      "runtimeVersion": "1.0.0",
+      "deviceOrientation": "portrait",
+      "statusbarDisplay": false,
+      "startSceneAssetBundle": false,
+      "resourceURL": "",
+      "workerPath": "",
+      "XHRTimeout": 60000,
+      "WSTimeout": 60000,
+      "uploadFileTimeout": 60000,
+      "downloadFileTimeout": 60000,
+      "cameraPermissionHint": "",
+      "userInfoPermissionHint": "",
+      "locationPermissionHint": "",
+      "albumPermissionHint": ""
+    }
+  }
+}

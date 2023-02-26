@@ -1,0 +1,42 @@
+{
+  "__version__": "1.0.2",
+  "general": {
+    "designResolution": {
+      "width": 720,
+      "height": 1280,
+      "fitHeight": true
+    }
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "PLAYER"
+      },
+      {
+        "index": 2,
+        "name": "ENEMY"
+      },
+      {
+        "index": 3,
+        "name": "PLAYER_BULLET"
+      },
+      {
+        "index": 4,
+        "name": "ENEMY_BULLET"
+      },
+      {
+        "index": 5,
+        "name": "BULLET_PROP"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 0,
+      "1": 52,
+      "2": 10,
+      "3": 4,
+      "4": 2,
+      "5": 2
+    }
+  }
+}

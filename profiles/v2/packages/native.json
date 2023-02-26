@@ -1,0 +1,15 @@
+{
+  "__version__": "1.0.0",
+  "options": {
+    "android": {
+      "polyfills": {
+        "asyncFunctions": true
+      },
+      "encrypted": true,
+      "xxteaKey": "1dLb6+ExdCEpp9SU",
+      "compressZip": false,
+      "makeAfterBuild": true,
+      "JobSystem": "none"
+    }
+  }
+}

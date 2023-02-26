@@ -1,0 +1,151 @@
+{
+  "__version__": "1.3.2",
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "outputName": "android",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "android",
+    "name": "airplane3.5",
+    "sourceMaps": false,
+    "scenes": [
+      {
+        "url": "db://assets/scene/sceneA.scene",
+        "uuid": "384ff359-d35f-409c-ad1c-da57bcf9f304"
+      },
+      {
+        "url": "db://assets/scene/sceneB.scene",
+        "uuid": "ac75afc6-c098-4043-89a4-5ad7b507fb65"
+      }
+    ],
+    "startScene": "384ff359-d35f-409c-ad1c-da57bcf9f304",
+    "md5Cache": false,
+    "debug": false,
+    "buildPath": "project://build"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1677401923812": {
+        "id": "1677401923812",
+        "progress": 1,
+        "state": "failure",
+        "message": "2023-2-26 16:59 Build failed!undefined",
+        "options": {
+          "name": "airplane3.5",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "384ff359-d35f-409c-ad1c-da57bcf9f304",
+          "scenes": [
+            {
+              "url": "db://assets/scene/sceneA.scene",
+              "uuid": "384ff359-d35f-409c-ad1c-da57bcf9f304",
+              "inBundle": false
+            }
+          ],
+          "outputName": "android",
+          "packages": {
+            "android": {
+              "packageName": "work.free3v.noado",
+              "orientation": {
+                "portrait": false,
+                "upsideDown": false,
+                "landscapeRight": true,
+                "landscapeLeft": true
+              },
+              "apiLevel": "android-26",
+              "appABIs": [
+                "armeabi-v7a",
+                "arm64-v8a"
+              ],
+              "useDebugKeystore": true,
+              "keystorePath": "",
+              "keystorePassword": "",
+              "keystoreAlias": "",
+              "keystoreAliasPassword": "",
+              "appBundle": false,
+              "androidInstant": false,
+              "remoteUrl": "",
+              "sdkPath": "",
+              "ndkPath": "",
+              "renderBackEnd": {
+                "vulkan": false,
+                "gles3": true,
+                "gles2": true
+              },
+              "swappy": false
+            },
+            "cocos-service": {
+              "configID": "7d6c33",
+              "services": [
+                {
+                  "service_id": "235",
+                  "service_component_name": "service-analytics",
+                  "builder": "C:\\Users\\10233\\.CocosCreator\\.service\\analytics\\builder\\builder.js",
+                  "enable": false,
+                  "params": {}
+                },
+                {
+                  "service_id": "278",
+                  "service_component_name": "service-sdkhub",
+                  "builder": "C:\\Users\\10233\\.CocosCreator\\.service\\sdkhub\\builder\\builder.js",
+                  "enable": false,
+                  "params": {}
+                }
+              ],
+              "sdkHubConfigID": "a9cccb",
+              "sdkHubConfig": {
+                "id": "a9cccb",
+                "name": "HUAWEI  AppGallery Connect",
+                "platform": "3",
+                "channelID": "161221",
+                "channelName": "HUAWEI  AppGallery Connect",
+                "remarks": "HUAWEI  AppGallery Connect",
+                "plugins": [
+                  {
+                    "hasParam": false,
+                    "pParam": {},
+                    "pId": "2412",
+                    "pName": "HUAWEI HMS",
+                    "packageName": "huawei-hms",
+                    "pType": 30,
+                    "pUseType": 30,
+                    "hasLocal": true,
+                    "hasUpdate": false,
+                    "requireParam": true,
+                    "pVersion": "2.0.3_6.3.0",
+                    "isInstall": false,
+                    "installProgress": true
+                  }
+                ]
+              }
+            },
+            "native": {
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "encrypted": true,
+              "xxteaKey": "1dLb6+ExdCEpp9SU",
+              "compressZip": false,
+              "makeAfterBuild": true,
+              "JobSystem": "none"
+            }
+          }
+        },
+        "time": "2023-2-26 16:58",
+        "dirty": false
+      }
+    }
+  }
+}
