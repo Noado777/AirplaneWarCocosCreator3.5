@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fxcloudwhite2",
+    "atlas": "",
+    "rect": {
+      "x": 3,
+      "y": 7,
+      "width": 504,
+      "height": 501
+    },
+    "offset": {
+      "x": -1,
+      "y": -1.5
+    },
+    "originalSize": {
+      "width": 512,
+      "height": 512
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "73519a0a-d079-4458-aa90-48821f84409e@6c48a",
+    "packable": true
+  }
+}
