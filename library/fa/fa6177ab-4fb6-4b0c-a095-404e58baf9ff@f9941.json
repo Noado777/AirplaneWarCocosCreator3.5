@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fightBtnPre02",
+    "atlas": "",
+    "rect": {
+      "x": 26,
+      "y": 8,
+      "width": 201,
+      "height": 63
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 253,
+      "height": 79
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "fa6177ab-4fb6-4b0c-a095-404e58baf9ff@6c48a",
+    "packable": true
+  }
+}
